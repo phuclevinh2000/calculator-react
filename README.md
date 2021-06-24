@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is this project?
+
+The main purpose of Calculator-react app is to make a simple calculator which have basic operators inspired by Calculator app on iPhone
+
+The project is still in development for other option such as programmers calculator and currency converter and get rid of `eval()` function, so if you have any further idea, you can contact me via my email: phuclevinh2000@gmail.com
+
+## How to install this calculator-react
+
+1. Clone this github resipotory
+2. Open your terminal to the folder location
+3. Run npm start (npm must be installed before)
+
+Or you can run it on Heroku by clicking this link: https://simple-calculator-phucle.herokuapp.com/
+
+## Screenshot from the app
+
+![image](https://user-images.githubusercontent.com/47014132/123238537-39f7b100-d4e7-11eb-990a-edc8daf918f5.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
